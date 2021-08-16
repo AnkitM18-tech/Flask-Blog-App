@@ -3,3 +3,5 @@ __pycache__
 blueprint_import.txt
 
 post.json
+
+/env/
